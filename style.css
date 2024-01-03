@@ -1,6 +1,9 @@
 body {
     background-color: rgb(236, 201, 236);
     margin: 0;
+    width: 1349px;
+    height: 607px;
+    overflow: auto;
 }
 
 .navbar {
